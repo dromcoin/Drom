@@ -1,4 +1,4 @@
 # Drom
 Drom Coin or DROM - concept of cryptocurrency that works offline.
 
-Testnet coming soon :)
+Try testnet v1.0 - https://dromcoin.github.io/drom/
